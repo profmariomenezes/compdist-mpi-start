@@ -1,6 +1,9 @@
 #include "mpi.h"
 #include <stdio.h>
 #include <math.h>
+#include <unistd.h>
+#include <stdlib.h>
+
 #define MAXSIZE 1000
 int main(int argc, char **argv)
 {
